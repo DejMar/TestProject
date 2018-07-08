@@ -1,2 +1,2 @@
-console.log('Hello world'); <
-title > Neki naslov 2 < /title>
+console.log('Hello world');
+console.log('Hello new world');
